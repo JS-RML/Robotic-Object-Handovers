@@ -11,7 +11,7 @@
   * [./ur5_start.sh](##ur5startsh)
 ------------
 # 1. Overview
-This repository contains a simulation approach to model the occurrence of self-righting behavior of planar-based rigid objects supported on two contact points under the influence of gravity, and also provides the software implementation of robotic Palm-to-Surface Handover.
+This repository contains a simulation approach to model the occurrence of __Self-Righting__ behavior of planar-based rigid objects supported on two contact points under the influence of gravity, and also provides the software implementation of robotic __Palm-to-Surface Handover__.
 
 ## Self-Righting
 
@@ -20,9 +20,8 @@ This repository contains a simulation approach to model the occurrence of self-r
 ![Image](https://github.com/user-attachments/assets/5b8d6f74-0ea4-4d87-9dff-f5e7c758bc65)
 # 2. Prerequisites
 ## Hardware
-ur5
-
-gripper
+- [Universal Robots UR5e](https://www.universal-robots.com/products/ur5e/): Industrial robot arm
+- [Robotis RH-P12-RN gripper](https://www.robotis.com/model/page.php?co_id=prd_hand): Two-fingered gripper, where one of the fingers is customized as a "palm".
 
 ## Sotfware
 ..
