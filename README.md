@@ -21,8 +21,8 @@ GIF
 ## Hardware
 - [Universal Robots UR5e](https://www.universal-robots.com/products/ur5e/): Industrial robot arm
 - [Robotis RH-P12-RN gripper](https://www.robotis.com/model/page.php?co_id=prd_hand): Two-fingered gripper, where one of the fingers is customized as a "palm", as shown in the image below.
-- [Palm]: 3D printed
-![Image](https://github.com/user-attachments/assets/0c4fe251-c537-4a6d-b611-f4db4d2f3709)
+- Palm: 3D printed
+![Image](https://github.com/user-attachments/assets/228ac45a-89e8-47fa-b46a-6f8126e5e6da)
 ## Sotfware
 Our simulation software is implemented with __Matlab 2024b__, and 
 # 3. Getting Started
