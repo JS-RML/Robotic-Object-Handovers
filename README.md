@@ -11,7 +11,7 @@
   * [./ur5_start.sh](##ur5startsh)
 ------------
 # 1. Overview
-This repository contains a simulation approach to model the occurrence of __Self-Righting__ behavior of planar-based rigid objects supported on two contact points under the influence of gravity, and also provides the software implementation of robotic __Palm-to-Surface Handover__.
+This repository contains a simulation approach to model the occurrence of __Self-Righting__ behavior of planar-based rigid objects supported on two contact points, and also provides the software implementation of robotic __Palm-to-Surface Handover__.
 
 ## Self-Righting
 GIF
@@ -25,7 +25,7 @@ GIF
 
 ![Image](https://github.com/user-attachments/assets/228ac45a-89e8-47fa-b46a-6f8126e5e6da)
 
-## Sotfware
+## Software
 Our simulation software is implemented with __Matlab 2024b__, and 
 # 3. Getting Started
 ## ./ur5_start.sh
